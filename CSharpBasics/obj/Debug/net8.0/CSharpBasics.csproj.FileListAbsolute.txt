@@ -1,0 +1,14 @@
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\bin\Debug\net8.0\CSharpBasics.exe
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\bin\Debug\net8.0\CSharpBasics.deps.json
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\bin\Debug\net8.0\CSharpBasics.runtimeconfig.json
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\bin\Debug\net8.0\CSharpBasics.dll
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\bin\Debug\net8.0\CSharpBasics.pdb
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\obj\Debug\net8.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfoInputs.cache
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfo.cs
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\obj\Debug\net8.0\CSharpBasics.csproj.CoreCompileInputs.cache
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\obj\Debug\net8.0\CSharpBasics.dll
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\obj\Debug\net8.0\refint\CSharpBasics.dll
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\obj\Debug\net8.0\CSharpBasics.pdb
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\obj\Debug\net8.0\CSharpBasics.genruntimeconfig.cache
+E:\Others\My tools\Programs\Python_restart\CSharpBasics\obj\Debug\net8.0\ref\CSharpBasics.dll
