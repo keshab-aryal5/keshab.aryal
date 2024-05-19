@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\College\\ClassRoom\\6th semester\\.net\\keshab.aryal\\CSharpBasics\\CSharpBasics.csproj": {}
+    "E:\\College\\ClassRoom\\6th semester\\.net\\keshab.aryal\\LINQ\\LINQ.csproj": {}
   },
   "projects": {
-    "E:\\College\\ClassRoom\\6th semester\\.net\\keshab.aryal\\CSharpBasics\\CSharpBasics.csproj": {
+    "E:\\College\\ClassRoom\\6th semester\\.net\\keshab.aryal\\LINQ\\LINQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\College\\ClassRoom\\6th semester\\.net\\keshab.aryal\\CSharpBasics\\CSharpBasics.csproj",
-        "projectName": "CSharpBasics",
-        "projectPath": "E:\\College\\ClassRoom\\6th semester\\.net\\keshab.aryal\\CSharpBasics\\CSharpBasics.csproj",
+        "projectUniqueName": "E:\\College\\ClassRoom\\6th semester\\.net\\keshab.aryal\\LINQ\\LINQ.csproj",
+        "projectName": "LINQ",
+        "projectPath": "E:\\College\\ClassRoom\\6th semester\\.net\\keshab.aryal\\LINQ\\LINQ.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\College\\ClassRoom\\6th semester\\.net\\keshab.aryal\\CSharpBasics\\obj\\",
+        "outputPath": "E:\\College\\ClassRoom\\6th semester\\.net\\keshab.aryal\\LINQ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
